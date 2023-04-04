@@ -9,7 +9,6 @@ function fibonacci(a) {
     fibonacci = fibonacci + j;
     j = m;
   }
-  console.log(arrayfib);
   return arrayfib.includes(a);
 }
 
